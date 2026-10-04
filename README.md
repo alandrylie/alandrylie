@@ -1,6 +1,6 @@
 # Hi, I'm Alan 👋
 
-** Low Code Software Engineer transitioning into Full Stack Development**
+**Low Code Software Engineer transitioning into Full Stack Development**
 
 - 24+ years at Lloyds Banking Group, including 2.5 years building and improving Appian applications
 - Currently learning HTML, CSS, JavaScript, TypeScript, Angular and Firebase through a full-stack traineeship and bootcamp
